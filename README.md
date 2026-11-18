@@ -27,10 +27,119 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+<html>
+    <head>
+        <title>my website</title>
+    </head>
+    <body>
+        <img src="logo.png"   width="1100" >
+        <table  border="1" align="center" bgcolor="lightblue" >
+            <tr>
+                <th bgcolor="yellow">time and days</th>
+                <th bgcolor="yellow">8:00-9:30</th>
+                <th bgcolor="yellow">9:45-11:14</th>
+                <th bgcolor="yellow">11:30-12:15</th>
+                <th bgcolor="yellow">12:15-1:00</th>
+                <th bgcolor="yellow">1:15-2:45</th>
+                <th bgcolor="yellow">3:00-4:30</th>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">monday</th>
+                <td> python programing</td>
+                <td>web application</td>
+                <td > mentor meet</td>
+                <td colspan="3" align="center">-</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">Tuesday</th>
+                <td>python programing</td>
+                <td>career development</td>
+                <td>mentor meet</td>
+                 <td align="center">-</td>
+                <td>web application</td>
+                 <td align="center">-</td>
+                
+            </tr>
+            <tr>
+                <th bgcolor="yellow">Wednesday</th>
+                <td>web application </td>
+                <td align="center">-</td>
+                <td> mentor meet </td>
+                <td  align="center">-</td>
+                <td>python programing</td>
+                <td  align="center">-</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">Thursday</th>
+                <td>calculus and matrix</td>
+                <td align="center">-</td>
+                <td>mentor meet</td>
+                <td colspan ="3" align="center">-</td>
+                
+            </tr>
+            <tr>
+                <th bgcolor="yellow">Friday</th>
+                <td>software engineering</td>
+                 <td align="center">-</td>
+                <td>mentor meet</td>
+                <td colspan="2" align="center">-</td>
+                
+            </tr>
+            <tr>
+                <th bgcolor="yellow">Saturday</th>
+                <td>software engineering</td>
+                <td>Basic EEE</td>
+                <td colspan= "2" align="center">-</td>
+
+                <td>calculus and matrix</td>
+            </tr>
+
+        </table>
+        <table border="1" align="center" >
+            <tr>
+                <th bgcolor="yellow" >S.NO</th>
+                <th bgcolor="yellow">Subject code</th>
+                <th bgcolor="yellow">subject</th>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">1</th>
+                <td>26ODJ148</td>
+                <td>Fundamentals of web application</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">2</th>
+                <td>19CS408</td>
+                <td>software engineering</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">3</th>
+                <td>19MA201</td>
+                <td>calculus and matrix</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">4</th>
+                <td>26ODJ157</td>
+                <td>python</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">5</th>
+                <td>19EE305</td>
+                <td>Basic EEE</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">6</th>
+                <td>19EY708</td>
+                <td>career development</td>
+            </tr>
+        </table>
+    </body>
+</html>
 
 
 ## OUTPUT
+![alt text](image.png)
 
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
+u
